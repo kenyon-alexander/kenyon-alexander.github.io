@@ -1,0 +1,14 @@
+# Site settings — edit these
+title: Your Name
+description: Designer · Developer · Builder of things
+
+# Theme — one of GitHub Pages' built-in Jekyll themes, so it works with zero setup.
+# Want a different look? Swap this line for any of:
+#   jekyll-theme-minimal, jekyll-theme-slate, jekyll-theme-architect,
+#   jekyll-theme-midnight, jekyll-theme-tactile, jekyll-theme-time-machine,
+#   jekyll-theme-dinky, jekyll-theme-leap-day, jekyll-theme-merlot,
+#   jekyll-theme-modernist, jekyll-theme-hacker, minima
+theme: jekyll-theme-cayman
+
+# Hide the "Download .zip / .tar.gz" buttons some themes show
+show_downloads: false
